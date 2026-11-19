@@ -38,7 +38,7 @@ Anote no arquivo de respostas o link do repositório e o nome da branch.
 
 Que informação o commit registra para que outra pessoa consiga localizar esta entrega depois?
 
-Resposta
+Resposta: O commit registra uma mensagem descritiva, a identificação da versão do código, as alterações realizadas e o momento em que foram salvas. Assim, outras pessoas conseguem localizar, identificar e acompanhar essa entrega no histórico do repositório.
 
 Observação após a execução
 
